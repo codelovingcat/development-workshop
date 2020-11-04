@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\bin\Debug\desktop-stay-in-shape.exe.config
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\bin\Debug\desktop-stay-in-shape.exe
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\bin\Debug\desktop-stay-in-shape.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\obj\Debug\desktop-stay-in-shape.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\obj\Debug\desktop_stay_in_shape.StayShape.resources
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\obj\Debug\desktop_stay_in_shape.Properties.Resources.resources
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\obj\Debug\desktop-stay-in-shape.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\obj\Debug\desktop-stay-in-shape.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\obj\Debug\desktop-stay-in-shape.exe
+C:\Users\urems\source\repos\development-workshop\desktop-stay-in-shape\obj\Debug\desktop-stay-in-shape.pdb
