@@ -128,9 +128,9 @@
             this.groupPuan.Controls.Add(this.label29);
             this.groupPuan.Controls.Add(this.label30);
             this.groupPuan.Font = new System.Drawing.Font("Minion Pro Med", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.groupPuan.Location = new System.Drawing.Point(351, 26);
+            this.groupPuan.Location = new System.Drawing.Point(321, 26);
             this.groupPuan.Name = "groupPuan";
-            this.groupPuan.Size = new System.Drawing.Size(152, 122);
+            this.groupPuan.Size = new System.Drawing.Size(182, 122);
             this.groupPuan.TabIndex = 20;
             this.groupPuan.TabStop = false;
             this.groupPuan.Text = "Puan Tablosu";
