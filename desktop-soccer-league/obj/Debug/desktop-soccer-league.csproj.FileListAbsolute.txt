@@ -1,0 +1,15 @@
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\bin\Debug\desktop-soccer-league.exe.config
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\bin\Debug\desktop-soccer-league.exe
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\bin\Debug\desktop-soccer-league.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\bin\Debug\Interop.WMPLib.dll
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\desktop-soccer-league.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\Interop.WMPLib.dll
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\desktop-soccer-league.csproj.ResolveComReference.cache
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\desktop_soccer_league.Form1.resources
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\desktop_soccer_league.Properties.Resources.resources
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\desktop-soccer-league.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\desktop-soccer-league.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\desktop-soccer-league.exe
+C:\Users\urems\source\repos\development-workshop\desktop-soccer-league\obj\Debug\desktop-soccer-league.pdb
