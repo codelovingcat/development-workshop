@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-travel-agency", "desktop-development\desktop-travel-agency.csproj", "{D34623A9-9BC6-402B-B77E-86DF12B7C89D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "programming-development", "programming-development", "{666DC695-129A-4B29-A81A-1351EEB7B474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34623A9-9BC6-402B-B77E-86DF12B7C89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34623A9-9BC6-402B-B77E-86DF12B7C89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34623A9-9BC6-402B-B77E-86DF12B7C89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34623A9-9BC6-402B-B77E-86DF12B7C89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D34623A9-9BC6-402B-B77E-86DF12B7C89D} = {666DC695-129A-4B29-A81A-1351EEB7B474}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE21AAA-5730-4968-9AA5-F0798970177A}
+	EndGlobalSection
+EndGlobal

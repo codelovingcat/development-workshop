@@ -1,0 +1,17 @@
+C:\Users\urems\source\repos\development-workshop\desktop-development\bin\Debug\desktop-development.exe.config
+C:\Users\urems\source\repos\development-workshop\desktop-development\bin\Debug\desktop-development.exe
+C:\Users\urems\source\repos\development-workshop\desktop-development\bin\Debug\desktop-development.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop-travel-agency.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop_development.Properties.Resources.resources
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop-travel-agency.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop-travel-agency.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop-development.exe
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop-development.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop_development.User.resources
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop_development.Passenger.resources
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop_development.Ticket.resources
+C:\Users\urems\source\repos\development-workshop\desktop-development\bin\Debug\Interop.WMPLib.dll
+C:\Users\urems\source\repos\development-workshop\desktop-development\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\Interop.WMPLib.dll
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\urems\source\repos\development-workshop\desktop-development\obj\Debug\desktop-travel-agency.csproj.ResolveComReference.cache
