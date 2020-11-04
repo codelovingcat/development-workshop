@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\bin\Debug\desktop-web-browser.exe.config
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\bin\Debug\desktop-web-browser.exe
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\bin\Debug\desktop-web-browser.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\obj\Debug\desktop-web-browser.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\obj\Debug\desktop_web_browser.Properties.Resources.resources
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\obj\Debug\desktop-web-browser.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\obj\Debug\desktop-web-browser.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\obj\Debug\desktop-web-browser.exe
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\obj\Debug\desktop-web-browser.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-web-browser\obj\Debug\desktop_web_browser.Web.resources
