@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\bin\Debug\desktop-pizza-line.exe.config
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\bin\Debug\desktop-pizza-line.exe
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\bin\Debug\desktop-pizza-line.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\obj\Debug\desktop-pizza-line.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\obj\Debug\desktop_pizza_line.PizzaLine.resources
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\obj\Debug\desktop_pizza_line.Properties.Resources.resources
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\obj\Debug\desktop-pizza-line.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\obj\Debug\desktop-pizza-line.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\obj\Debug\desktop-pizza-line.exe
+C:\Users\urems\source\repos\development-workshop\desktop-pizza-line\obj\Debug\desktop-pizza-line.pdb
