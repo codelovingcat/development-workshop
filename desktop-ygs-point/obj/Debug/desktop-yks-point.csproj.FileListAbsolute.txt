@@ -1,0 +1,9 @@
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\bin\Debug\desktop-ygs-point.exe.config
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\bin\Debug\desktop-ygs-point.exe
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\bin\Debug\desktop-ygs-point.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop_ygs_point.Form1.resources
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop_ygs_point.Properties.Resources.resources
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop-yks-point.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop-yks-point.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop-ygs-point.exe
+C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop-ygs-point.pdb
