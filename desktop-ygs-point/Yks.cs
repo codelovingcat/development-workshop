@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace desktop_ygs_point
 {
-    public partial class Form1 : Form
+    public partial class Yks : Form
     {
         double turkce, matematik, sosyal, fen;
         double yks1, yks2, yks3, yks4, yks5, yks6;
-        public Form1()
+        public Yks()
         {
             InitializeComponent();
         }

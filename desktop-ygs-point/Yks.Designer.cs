@@ -1,6 +1,6 @@
 ﻿namespace desktop_ygs_point
 {
-    partial class Form1
+    partial class Yks
     {
         /// <summary>
         /// Required designer variable.
@@ -255,7 +255,7 @@
             this.btnResult.UseVisualStyleBackColor = false;
             this.btnResult.Click += new System.EventHandler(this.btnResult_Click);
             // 
-            // Form1
+            // Yks
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -282,8 +282,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnResult);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Yks";
+            this.Text = "YKS Sonuçları";
             this.ResumeLayout(false);
             this.PerformLayout();
 
