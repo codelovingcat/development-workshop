@@ -1,0 +1,11 @@
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\bin\Debug\desktop-newspeper-read.exe.config
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\bin\Debug\desktop-newspeper-read.exe
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\bin\Debug\desktop-newspeper-read.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\obj\Debug\desktop_newspeper_read.Form1.resources
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\obj\Debug\desktop_newspeper_read.Properties.Resources.resources
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\obj\Debug\desktop-newspeper-read.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\obj\Debug\desktop-newspeper-read.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\obj\Debug\desktop-newspeper-read.exe
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\obj\Debug\desktop-newspeper-read.pdb
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\obj\Debug\desktop-newspeper-read.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\development-workshop\desktop-newspeper-read\obj\Debug\desktop-newspeper-read.csproj.ResolveComReference.cache
