@@ -1,0 +1,15 @@
+D:\Git-Github\development-workshop\desktop-music-player\bin\Debug\desktop-music-player.exe.config
+D:\Git-Github\development-workshop\desktop-music-player\bin\Debug\desktop-music-player.exe
+D:\Git-Github\development-workshop\desktop-music-player\bin\Debug\desktop-music-player.pdb
+D:\Git-Github\development-workshop\desktop-music-player\bin\Debug\Interop.WMPLib.dll
+D:\Git-Github\development-workshop\desktop-music-player\bin\Debug\AxInterop.WMPLib.dll
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\desktop-music-player.csprojAssemblyReference.cache
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\Interop.WMPLib.dll
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\AxInterop.WMPLib.dll
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\desktop-music-player.csproj.ResolveComReference.cache
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\desktop_music_player.MusicPlayer.resources
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\desktop_music_player.Properties.Resources.resources
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\desktop-music-player.csproj.GenerateResource.cache
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\desktop-music-player.csproj.CoreCompileInputs.cache
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\desktop-music-player.exe
+D:\Git-Github\development-workshop\desktop-music-player\obj\Debug\desktop-music-player.pdb
