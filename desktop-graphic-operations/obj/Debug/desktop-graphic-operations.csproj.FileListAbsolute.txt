@@ -1,0 +1,10 @@
+D:\GitHub\workshop-development\desktop-graphic-operations\bin\Debug\desktop-graphic-operations.exe.config
+D:\GitHub\workshop-development\desktop-graphic-operations\bin\Debug\desktop-graphic-operations.exe
+D:\GitHub\workshop-development\desktop-graphic-operations\bin\Debug\desktop-graphic-operations.pdb
+D:\GitHub\workshop-development\desktop-graphic-operations\obj\Debug\desktop-graphic-operations.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\desktop-graphic-operations\obj\Debug\desktop_graphic_operations.Graphic.resources
+D:\GitHub\workshop-development\desktop-graphic-operations\obj\Debug\desktop_graphic_operations.Properties.Resources.resources
+D:\GitHub\workshop-development\desktop-graphic-operations\obj\Debug\desktop-graphic-operations.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\desktop-graphic-operations\obj\Debug\desktop-graphic-operations.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\desktop-graphic-operations\obj\Debug\desktop-graphic-operations.exe
+D:\GitHub\workshop-development\desktop-graphic-operations\obj\Debug\desktop-graphic-operations.pdb
