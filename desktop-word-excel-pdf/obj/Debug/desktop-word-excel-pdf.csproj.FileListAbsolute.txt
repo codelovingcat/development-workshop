@@ -1,0 +1,11 @@
+D:\GitHub\workshop-development\desktop-word-excel-pdf\bin\Debug\desktop-word-excel-pdf.exe.config
+D:\GitHub\workshop-development\desktop-word-excel-pdf\bin\Debug\desktop-word-excel-pdf.exe
+D:\GitHub\workshop-development\desktop-word-excel-pdf\bin\Debug\desktop-word-excel-pdf.pdb
+D:\GitHub\workshop-development\desktop-word-excel-pdf\obj\Debug\desktop-word-excel-pdf.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\desktop-word-excel-pdf\obj\Debug\desktop-word-excel-pdf.csproj.ResolveComReference.cache
+D:\GitHub\workshop-development\desktop-word-excel-pdf\obj\Debug\desktop_word_excel_pdf.Properties.Resources.resources
+D:\GitHub\workshop-development\desktop-word-excel-pdf\obj\Debug\desktop_word_excel_pdf.WordExcelPdf.resources
+D:\GitHub\workshop-development\desktop-word-excel-pdf\obj\Debug\desktop-word-excel-pdf.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\desktop-word-excel-pdf\obj\Debug\desktop-word-excel-pdf.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\desktop-word-excel-pdf\obj\Debug\desktop-word-excel-pdf.exe
+D:\GitHub\workshop-development\desktop-word-excel-pdf\obj\Debug\desktop-word-excel-pdf.pdb

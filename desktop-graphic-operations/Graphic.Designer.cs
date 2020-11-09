@@ -117,7 +117,7 @@
             this.Controls.Add(this.lblTea);
             this.Controls.Add(this.btnTotal);
             this.Name = "Graphic";
-            this.Text = "Form1";
+            this.Text = "Graphic";
             this.ResumeLayout(false);
             this.PerformLayout();
 

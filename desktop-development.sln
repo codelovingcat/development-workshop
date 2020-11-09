@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-psychological-analy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-graphic-operations", "desktop-graphic-operations\desktop-graphic-operations.csproj", "{642B305D-F82C-4DA4-B3B1-F1F54F8BD43D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-word-excel", "desktop-word-excel-pdf\desktop-word-excel.csproj", "{FC9B7CAF-E9BD-428C-A2BA-6A1AB7C61B7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{642B305D-F82C-4DA4-B3B1-F1F54F8BD43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{642B305D-F82C-4DA4-B3B1-F1F54F8BD43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{642B305D-F82C-4DA4-B3B1-F1F54F8BD43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9B7CAF-E9BD-428C-A2BA-6A1AB7C61B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9B7CAF-E9BD-428C-A2BA-6A1AB7C61B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9B7CAF-E9BD-428C-A2BA-6A1AB7C61B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9B7CAF-E9BD-428C-A2BA-6A1AB7C61B7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +92,7 @@ Global
 		{22A59351-1A2B-4007-8B00-7EFA05947EB2} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{29AF6AAC-D0C3-46E5-BA3D-9CE110290E67} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{642B305D-F82C-4DA4-B3B1-F1F54F8BD43D} = {666DC695-129A-4B29-A81A-1351EEB7B474}
+		{FC9B7CAF-E9BD-428C-A2BA-6A1AB7C61B7C} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6BE21AAA-5730-4968-9AA5-F0798970177A}
