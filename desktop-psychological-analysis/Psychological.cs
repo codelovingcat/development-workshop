@@ -95,7 +95,7 @@ namespace desktop_psychological_analysis
                 pictureBox2.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\woman.gif";
                 pictureBox3.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\man.gif";
                 pictureBox4.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\child.gif";
-                pictureBox5.ImageLocation = @"DD:\GitHub\workshop-development\desktop-psychological-analysis\images\gay.gif";
+                pictureBox5.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\gay.gif";
                 txtQuestion.Text = "1. Öncelikle, cinsiyetini seçer misin?";
                 btn1.Text = "Kadın";
                 btn2.Text = "Erkek";

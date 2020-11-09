@@ -90,9 +90,9 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(221, 75);
+            this.pictureBox1.Location = new System.Drawing.Point(221, 72);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(415, 231);
+            this.pictureBox1.Size = new System.Drawing.Size(415, 234);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 24;
             this.pictureBox1.TabStop = false;
@@ -208,6 +208,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(859, 502);
             this.Controls.Add(this.axWindowsMediaPlayer1);
             this.Controls.Add(this.pictureBox5);
@@ -224,8 +225,9 @@
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.txtQuestion);
+            this.DoubleBuffered = true;
             this.Name = "Psychological";
-            this.Text = "Form1";
+            this.Text = "Aslında Nesin Sen?";
             this.Load += new System.EventHandler(this.Psychological_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
