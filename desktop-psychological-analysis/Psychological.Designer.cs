@@ -54,45 +54,45 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Location = new System.Drawing.Point(553, 167);
+            this.pictureBox5.Location = new System.Drawing.Point(642, 149);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(180, 139);
+            this.pictureBox5.Size = new System.Drawing.Size(211, 157);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 28;
             this.pictureBox5.TabStop = false;
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Location = new System.Drawing.Point(373, 167);
+            this.pictureBox4.Location = new System.Drawing.Point(432, 149);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(174, 139);
+            this.pictureBox4.Size = new System.Drawing.Size(204, 157);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 27;
             this.pictureBox4.TabStop = false;
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(189, 167);
+            this.pictureBox3.Location = new System.Drawing.Point(221, 149);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(178, 139);
+            this.pictureBox3.Size = new System.Drawing.Size(205, 157);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 26;
             this.pictureBox3.TabStop = false;
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(8, 167);
+            this.pictureBox2.Location = new System.Drawing.Point(8, 149);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(175, 139);
+            this.pictureBox2.Size = new System.Drawing.Size(207, 157);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 25;
             this.pictureBox2.TabStop = false;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(248, 118);
+            this.pictureBox1.Location = new System.Drawing.Point(221, 75);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(328, 188);
+            this.pictureBox1.Size = new System.Drawing.Size(415, 231);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 24;
             this.pictureBox1.TabStop = false;
@@ -100,20 +100,20 @@
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
-            this.lblTotal.Font = new System.Drawing.Font("Minion Pro SmBd", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblTotal.Location = new System.Drawing.Point(782, 128);
+            this.lblTotal.Font = new System.Drawing.Font("Minion Pro SmBd", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblTotal.Location = new System.Drawing.Point(784, 93);
             this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(30, 26);
+            this.lblTotal.Size = new System.Drawing.Size(23, 19);
             this.lblTotal.TabIndex = 23;
             this.lblTotal.Text = "00";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Minion Pro SmBd", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(736, 86);
+            this.label1.Font = new System.Drawing.Font("Minion Pro SmBd", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Location = new System.Drawing.Point(750, 72);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(117, 26);
+            this.label1.Size = new System.Drawing.Size(87, 19);
             this.label1.TabIndex = 22;
             this.label1.Text = "Toplam Puan";
             // 
@@ -178,7 +178,7 @@
             this.btnStart.Font = new System.Drawing.Font("Minion Pro SmBd", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnStart.Location = new System.Drawing.Point(741, 12);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(96, 31);
+            this.btnStart.Size = new System.Drawing.Size(96, 57);
             this.btnStart.TabIndex = 16;
             this.btnStart.Text = "Teste Başla";
             this.btnStart.UseVisualStyleBackColor = false;
@@ -186,11 +186,12 @@
             // 
             // txtQuestion
             // 
-            this.txtQuestion.Font = new System.Drawing.Font("Minion Pro SmBd", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtQuestion.Enabled = false;
+            this.txtQuestion.Font = new System.Drawing.Font("Minion Pro SmBd", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtQuestion.Location = new System.Drawing.Point(3, 8);
             this.txtQuestion.Multiline = true;
             this.txtQuestion.Name = "txtQuestion";
-            this.txtQuestion.Size = new System.Drawing.Size(727, 104);
+            this.txtQuestion.Size = new System.Drawing.Size(727, 61);
             this.txtQuestion.TabIndex = 15;
             // 
             // axWindowsMediaPlayer1
