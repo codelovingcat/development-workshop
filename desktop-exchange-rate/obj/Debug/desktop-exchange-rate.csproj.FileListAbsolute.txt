@@ -1,0 +1,10 @@
+D:\GitHub\workshop-development\desktop-exchange-rate\bin\Debug\desktop-exchange-rate.exe.config
+D:\GitHub\workshop-development\desktop-exchange-rate\bin\Debug\desktop-exchange-rate.exe
+D:\GitHub\workshop-development\desktop-exchange-rate\bin\Debug\desktop-exchange-rate.pdb
+D:\GitHub\workshop-development\desktop-exchange-rate\obj\Debug\desktop-exchange-rate.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\desktop-exchange-rate\obj\Debug\desktop_exchange_rate.Exchange.resources
+D:\GitHub\workshop-development\desktop-exchange-rate\obj\Debug\desktop_exchange_rate.Properties.Resources.resources
+D:\GitHub\workshop-development\desktop-exchange-rate\obj\Debug\desktop-exchange-rate.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\desktop-exchange-rate\obj\Debug\desktop-exchange-rate.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\desktop-exchange-rate\obj\Debug\desktop-exchange-rate.exe
+D:\GitHub\workshop-development\desktop-exchange-rate\obj\Debug\desktop-exchange-rate.pdb
