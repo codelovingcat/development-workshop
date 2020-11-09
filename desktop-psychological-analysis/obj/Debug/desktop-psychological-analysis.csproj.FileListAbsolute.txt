@@ -1,0 +1,15 @@
+D:\GitHub\development-workshop\desktop-psychological-analysis\bin\Debug\desktop-psychological-analysis.exe.config
+D:\GitHub\development-workshop\desktop-psychological-analysis\bin\Debug\desktop-psychological-analysis.exe
+D:\GitHub\development-workshop\desktop-psychological-analysis\bin\Debug\desktop-psychological-analysis.pdb
+D:\GitHub\development-workshop\desktop-psychological-analysis\bin\Debug\Interop.WMPLib.dll
+D:\GitHub\development-workshop\desktop-psychological-analysis\bin\Debug\AxInterop.WMPLib.dll
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\desktop-psychological-analysis.csprojAssemblyReference.cache
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\Interop.WMPLib.dll
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\AxInterop.WMPLib.dll
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\desktop-psychological-analysis.csproj.ResolveComReference.cache
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\desktop_psychological_analysis.Properties.Resources.resources
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\desktop_psychological_analysis.Psychological.resources
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\desktop-psychological-analysis.csproj.GenerateResource.cache
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\desktop-psychological-analysis.csproj.CoreCompileInputs.cache
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\desktop-psychological-analysis.exe
+D:\GitHub\development-workshop\desktop-psychological-analysis\obj\Debug\desktop-psychological-analysis.pdb
