@@ -126,6 +126,7 @@
             this.btn5.Size = new System.Drawing.Size(844, 31);
             this.btn5.TabIndex = 21;
             this.btn5.UseVisualStyleBackColor = false;
+            this.btn5.Click += new System.EventHandler(this.btn5_Click);
             // 
             // btn4
             // 
@@ -136,6 +137,7 @@
             this.btn4.Size = new System.Drawing.Size(844, 31);
             this.btn4.TabIndex = 20;
             this.btn4.UseVisualStyleBackColor = false;
+            this.btn4.Click += new System.EventHandler(this.btn4_Click);
             // 
             // btn3
             // 
@@ -146,6 +148,7 @@
             this.btn3.Size = new System.Drawing.Size(844, 31);
             this.btn3.TabIndex = 19;
             this.btn3.UseVisualStyleBackColor = false;
+            this.btn3.Click += new System.EventHandler(this.btn3_Click);
             // 
             // btn2
             // 
@@ -156,6 +159,7 @@
             this.btn2.Size = new System.Drawing.Size(844, 31);
             this.btn2.TabIndex = 18;
             this.btn2.UseVisualStyleBackColor = false;
+            this.btn2.Click += new System.EventHandler(this.btn2_Click);
             // 
             // btn1
             // 
@@ -166,6 +170,7 @@
             this.btn1.Size = new System.Drawing.Size(844, 31);
             this.btn1.TabIndex = 17;
             this.btn1.UseVisualStyleBackColor = false;
+            this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
             // btnStart
             // 
@@ -177,6 +182,7 @@
             this.btnStart.TabIndex = 16;
             this.btnStart.Text = "Teste Başla";
             this.btnStart.UseVisualStyleBackColor = false;
+            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
             // txtQuestion
             // 
@@ -190,10 +196,10 @@
             // axWindowsMediaPlayer1
             // 
             this.axWindowsMediaPlayer1.Enabled = true;
-            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(13, 8);
+            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(3, -1);
             this.axWindowsMediaPlayer1.Name = "axWindowsMediaPlayer1";
             this.axWindowsMediaPlayer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axWindowsMediaPlayer1.OcxState")));
-            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(75, 23);
+            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(727, 44);
             this.axWindowsMediaPlayer1.TabIndex = 29;
             // 
             // Psychological
@@ -219,6 +225,7 @@
             this.Controls.Add(this.txtQuestion);
             this.Name = "Psychological";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Psychological_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
