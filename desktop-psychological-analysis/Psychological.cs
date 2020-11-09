@@ -76,7 +76,7 @@ namespace desktop_psychological_analysis
 
         private void Psychological_Load(object sender, EventArgs e)
         {
-            axWindowsMediaPlayer1.URL = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\meditasyon.mp3";
+            axWindowsMediaPlayer1.URL = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\meditasyon.mp3";
             axWindowsMediaPlayer1.Visible = false;
         }
 
@@ -92,10 +92,10 @@ namespace desktop_psychological_analysis
             question++;
             if (question == 1)
             {
-                pictureBox2.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\woman.gif";
-                pictureBox3.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\man.gif";
-                pictureBox4.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\child.gif";
-                pictureBox5.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\gay.gif";
+                pictureBox2.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\woman.gif";
+                pictureBox3.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\man.gif";
+                pictureBox4.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\child.gif";
+                pictureBox5.ImageLocation = @"DD:\GitHub\workshop-development\desktop-psychological-analysis\images\gay.gif";
                 txtQuestion.Text = "1. Öncelikle, cinsiyetini seçer misin?";
                 btn1.Text = "Kadın";
                 btn2.Text = "Erkek";
@@ -120,7 +120,7 @@ namespace desktop_psychological_analysis
             }
             if (question == 3)
             {
-                pictureBox1.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\q3.jpg";
+                pictureBox1.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\q3.jpg";
                 txtQuestion.Text = "3. Sence bu kadın tek başına denize karşı oturmuş ne düşünüyor?";
                 btn1.Text = "Çektiği acıların yükünü hafifletmek için yalnız kalmak istiyor...";
                 btn2.Text = "Onlarca insanın içinde güveneceği birinin olmadığını hissedip yalnız olduğunu düşünüyor...";
@@ -135,7 +135,7 @@ namespace desktop_psychological_analysis
             }
             if (question == 4)
             {
-                pictureBox1.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\q4.gif";
+                pictureBox1.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\q4.gif";
                 txtQuestion.Text = "4. Peki hiç haz etmediğin bir insanın çok acı çekip ağladığını gördün. Bu seni nasıl hissettirir?";
                 btn1.Text = "Suçlu";
                 btn2.Text = "Üzgün";
@@ -150,7 +150,7 @@ namespace desktop_psychological_analysis
             }
             if (question == 5)
             {
-                pictureBox1.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\q5.gif";
+                pictureBox1.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\q5.gif";
                 txtQuestion.Text = "Hayalini kurduğun ve emek verdiğin şey gerçekleşmedi diyelim. Ne kadar öfkelenirsin? ( 1= Hiç, 5 = Çok )?";
                 btn1.Text = "1";
                 btn2.Text = "2";
@@ -164,7 +164,7 @@ namespace desktop_psychological_analysis
             }
             if (question == 6)
             {
-                pictureBox1.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\q6.gif";
+                pictureBox1.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\q6.gif";
                 txtQuestion.Text = "6. Bunca kalabalığın içinde kendini yalnız hissedip insanlara derdini anlatamadığın anlar oluyor mu?";
                 btn1.Text = "Her zaman böyleydim, hala da böyleyim...";
                 btn2.Text = "Zaman zaman bunu hissediyorum.";
@@ -178,7 +178,7 @@ namespace desktop_psychological_analysis
             }
             if (question == 7)
             {
-                pictureBox1.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\q7.gif";
+                pictureBox1.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\q7.gif";
                 txtQuestion.Text = "7. Geçmişte çok fazla hayal kırıklığına uğradın mı?";
                 btn1.Text = "Ne yazık ki evet...";
                 btn2.Text = "Çok değil...";
@@ -192,7 +192,7 @@ namespace desktop_psychological_analysis
             }
             if (question == 8)
             {
-                pictureBox1.ImageLocation = @"D:\Git-Github\development-workshop\desktop-psychological-analysis\images\q8.gif";
+                pictureBox1.ImageLocation = @"D:\GitHub\workshop-development\desktop-psychological-analysis\images\q8.gif";
                 txtQuestion.Text = "8. Son olarak, bu hayatta aşk diye bir şeyin olduğuna inanıyor musun?";
                 btn1.Text = "Evet, bir gün gerçek aşkımla karşılaşacağıma inanıyorum...";
                 btn2.Text = "Bazen inanıyor bazen de inanmıyorum.";
