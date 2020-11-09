@@ -7,3 +7,12 @@ C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\des
 C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop-yks-point.csproj.CoreCompileInputs.cache
 C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop-ygs-point.exe
 C:\Users\urems\source\repos\development-workshop\desktop-ygs-point\obj\Debug\desktop-ygs-point.pdb
+D:\Git-Github\development-workshop\desktop-ygs-point\bin\Debug\desktop-ygs-point.exe.config
+D:\Git-Github\development-workshop\desktop-ygs-point\bin\Debug\desktop-ygs-point.exe
+D:\Git-Github\development-workshop\desktop-ygs-point\bin\Debug\desktop-ygs-point.pdb
+D:\Git-Github\development-workshop\desktop-ygs-point\obj\Debug\desktop_ygs_point.Yks.resources
+D:\Git-Github\development-workshop\desktop-ygs-point\obj\Debug\desktop_ygs_point.Properties.Resources.resources
+D:\Git-Github\development-workshop\desktop-ygs-point\obj\Debug\desktop-yks-point.csproj.GenerateResource.cache
+D:\Git-Github\development-workshop\desktop-ygs-point\obj\Debug\desktop-yks-point.csproj.CoreCompileInputs.cache
+D:\Git-Github\development-workshop\desktop-ygs-point\obj\Debug\desktop-ygs-point.exe
+D:\Git-Github\development-workshop\desktop-ygs-point\obj\Debug\desktop-ygs-point.pdb
