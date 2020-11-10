@@ -1,0 +1,15 @@
+D:\GitHub\workshop-development\desktop-character-validation\bin\Debug\desktop-character-validation.exe.config
+D:\GitHub\workshop-development\desktop-character-validation\bin\Debug\desktop-character-validation.exe
+D:\GitHub\workshop-development\desktop-character-validation\bin\Debug\desktop-character-validation.pdb
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop-html-agility-pack.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop_character_validation.HtmlAgilityPack.resources
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop_character_validation.Properties.Resources.resources
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop-html-agility-pack.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop-html-agility-pack.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop-character-validation.exe
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop-character-validation.pdb
+D:\GitHub\workshop-development\desktop-character-validation\bin\Debug\HtmlAgilityPack.dll
+D:\GitHub\workshop-development\desktop-character-validation\bin\Debug\HtmlAgilityPack.pdb
+D:\GitHub\workshop-development\desktop-character-validation\bin\Debug\HtmlAgilityPack.xml
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop_character_validation.Web.resources
+D:\GitHub\workshop-development\desktop-character-validation\obj\Debug\desktop-html-agility-pack.csproj.CopyComplete
