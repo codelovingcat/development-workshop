@@ -1,0 +1,10 @@
+D:\GitHub\workshop-development\desktop-sent-mail\bin\Debug\desktop-sent-mail.exe.config
+D:\GitHub\workshop-development\desktop-sent-mail\bin\Debug\desktop-sent-mail.exe
+D:\GitHub\workshop-development\desktop-sent-mail\bin\Debug\desktop-sent-mail.pdb
+D:\GitHub\workshop-development\desktop-sent-mail\obj\Debug\desktop-sent-mail.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\desktop-sent-mail\obj\Debug\desktop_sent_mail.Properties.Resources.resources
+D:\GitHub\workshop-development\desktop-sent-mail\obj\Debug\desktop_sent_mail.SentMail.resources
+D:\GitHub\workshop-development\desktop-sent-mail\obj\Debug\desktop-sent-mail.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\desktop-sent-mail\obj\Debug\desktop-sent-mail.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\desktop-sent-mail\obj\Debug\desktop-sent-mail.exe
+D:\GitHub\workshop-development\desktop-sent-mail\obj\Debug\desktop-sent-mail.pdb
