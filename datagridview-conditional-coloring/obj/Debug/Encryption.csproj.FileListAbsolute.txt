@@ -1,0 +1,10 @@
+D:\GitHub\workshop-development\datagridview-conditional-coloring\bin\Debug\datagridview-conditional-coloring.exe.config
+D:\GitHub\workshop-development\datagridview-conditional-coloring\bin\Debug\datagridview-conditional-coloring.exe
+D:\GitHub\workshop-development\datagridview-conditional-coloring\bin\Debug\datagridview-conditional-coloring.pdb
+D:\GitHub\workshop-development\datagridview-conditional-coloring\obj\Debug\Encryption.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\datagridview-conditional-coloring\obj\Debug\datagridview_conditional_coloring.Encryption.resources
+D:\GitHub\workshop-development\datagridview-conditional-coloring\obj\Debug\datagridview_conditional_coloring.Properties.Resources.resources
+D:\GitHub\workshop-development\datagridview-conditional-coloring\obj\Debug\Encryption.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\datagridview-conditional-coloring\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\datagridview-conditional-coloring\obj\Debug\datagridview-conditional-coloring.exe
+D:\GitHub\workshop-development\datagridview-conditional-coloring\obj\Debug\datagridview-conditional-coloring.pdb

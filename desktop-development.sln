@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToBase64-Encryption", "ToBa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "password-algorithms", "password-algorithms", "{9D6F9F93-5240-428F-B9B5-0703B98CCC2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "datagridview-conditional-coloring\Encryption.csproj", "{5BC7145E-310A-4E40-B4DB-DA52B462E82C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,10 @@ Global
 		{E91472CA-E14A-404A-B37E-D8251613EB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E91472CA-E14A-404A-B37E-D8251613EB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E91472CA-E14A-404A-B37E-D8251613EB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC7145E-310A-4E40-B4DB-DA52B462E82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC7145E-310A-4E40-B4DB-DA52B462E82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC7145E-310A-4E40-B4DB-DA52B462E82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC7145E-310A-4E40-B4DB-DA52B462E82C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -137,6 +143,7 @@ Global
 		{8F3E6BFD-35B1-45D9-951E-C92B4899182C} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{D1AE5458-29C1-4631-B0BF-C94016A5D7D0} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{E91472CA-E14A-404A-B37E-D8251613EB1C} = {9D6F9F93-5240-428F-B9B5-0703B98CCC2D}
+		{5BC7145E-310A-4E40-B4DB-DA52B462E82C} = {9D6F9F93-5240-428F-B9B5-0703B98CCC2D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6BE21AAA-5730-4968-9AA5-F0798970177A}
