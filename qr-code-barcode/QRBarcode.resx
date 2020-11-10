@@ -117,4 +117,74 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/4QBaRXhpZgAATU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAAB
+        AAAAJgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAABOKADAAQAAAABAAABOAAAAAAAAP/bAEMAAgEB
+        AgEBAgIBAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYGBgcICwkHCAoIBgYJDQkKCwsMDAwHCQ0ODQwOCwwM
+        C//bAEMBAgICAwIDBQMDBQsIBggLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsL
+        CwsLCwsLCwsLC//AABEIATgBOAMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJ
+        Cgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKC
+        CQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImK
+        kpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T1
+        9vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncA
+        AQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RF
+        RkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+        tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP38oor+
+        AOgD+/yiv4A6KAP7/KK/gDooA/v8or+AOigD+/yiiigAoor+AOgD+/yiv4A6/v8AKACiv4A6/v8AKACi
+        iv4A6AP7/KK/gDooA/v8ooooAKK/gDooA/v8or+AOv7/ACgAoor+AOgD+/yiiv4A6AP7/KKK/gDoA/v8
+        or+AOigD+/yiv4A6KAP7/KK/gDooA/v8ooooAK/gDr+/yv4A6AP7/KKK/gDoA/v8or+AOigD+/yv4A6/
+        v8r+AOgD+/yiiigD+AOv7/KKKAP4A6/v8r+AOigD+/yv4A6/v8ooAKK/gDr+/wAoAKK/gDooAK/v8ooo
+        AK/gDor+/wAoA/gDr+/yiigD+AOv7/K/gDooA/v8r+AOiigD+/yv4A6/v8r+AOgD+/yiiv4A6AP7/KK/
+        gDooA/v8r+AOv7/K/gDoA/v8ooooAK/gDr+/yv4A6AP7/K/gDr+/yv4A6ACiiigD+/yv4A6/v8r+AOgD
+        +/yv4A6/v8ooAK/gDoooA/v8r+AOv7/KKACiv4A6KACiv7/KKAP4A6KK/v8AKACiiigD+AOiiv7/ACgD
+        +AOv7/KKKAP4A6KKKACiv7/KKACv4A6/v8r+AOgD+/yv4A6/v8r+AOgAooooA/v8r+AOv7/K/gDoA/v8
+        ooooAK/gDr+/yv4A6AP7/KK/gDooA/v8or+AOigD+/yv4A6KKAP7/K/gDr+/yv4A6ACiv7/K/gDoAK/v
+        8or+AOgD+/yiiv4A6ACv7/KK/gDoAKK/v8r+AOgAor+/yv4A6AP7/K/gDr+/yv4A6AP7/K/gDr+/yv4A
+        6ACiv7/K/gDoA/v8r+AOv7/K/gDoA/v8r+AOv7/K/gDoA/v8or+AOigD+/yiv4A6KAP7/K/gDoooA/v8
+        ooooAKKKKACiv4A6KAP7/KKKKACiiv4A6AP7/K/gDr+/yigD+AOiv7/KKACiiv4A6AP7/K/gDoooA/v8
+        oor+AOgAr+/yv4A6KAP7/KK/gDr+/wAoAK/gDr+/yigAr+AOv7/K/gDoAK/v8r+AOv7/ACgD+AOiv7/K
+        /gDoA/v8oor+AOgD+/yiv4A6/v8AKACiv4A6/v8AKACiiigAooooAK/gDr+/yv4A6ACiiigAr+/yv4A6
+        /v8AKAP4A6/v8or+AOgD+/yv4A6K/v8AKACiiigD+AOv7/K/gDr+/wAoA/gDr+/yv4A6KACiv7/K/gDo
+        AKK/v8r+AOgD+/yv4A6/v8r+AOgAr+/yv4A6KACiiv7/ACgAr+AOv7/KKACv4A6K/v8AKAP4A6KKKAP7
+        /KKKKACiiigAr+AOv7/K/gDoA/v8ooooAK/gDr+/yigD+AOiv7/KKAP4A6K/v8ooAKK/gDooAK/v8or+
+        AOgD+/yiv4A6/v8AKAP4A6KKKAP7/KK/gDr+/wAoA/gDr+/yv4A6/v8AKAP4A6KKKAP7/K/gDr+/yigA
+        r+AOv7/KKAP4A6KK/v8AKACv4A6/v8ooA/gDoor+/wAoAKK/gDooA/v8or+AOv7/ACgAor+AOv7/ACgD
+        +AOv7/KKKACiiigAoor+AOgD+/yv4A6/v8r+AOgD+/yiv4A6/v8AKACiiv4A6ACiv7/K/gDoA/v8or+A
+        Ov7/ACgD+AOiiigAooooAK/v8r+AOigD+/yiiigAooooAK/gDoooAKKKKACiv7/KKAP4A6KKKACiv7/K
+        /gDoAK/v8r+AOigD+/yv4A6KKAP7/K/gDoooA/v8ooooAK/gDr+/yv4A6ACv7/KKKACiv4A6KACv7/KK
+        /gDoAK/v8r+AOigAr+/yiigAoor+AOgD+/yiv4A6/v8AKAP4A6KKKAP7/K/gDr+/yv4A6AP7/K/gDor+
+        /wAoAK/gDoooAKK/v8ooAK/gDr+/yigAr+AOiv7/ACgD+AOv7/K/gDooAK/v8oooA/gDr+/yiigD+AOv
+        7/KKKACiiigAooooA/gDr+/yv4A6KACiv7/KKAP4A6/v8r+AOigAooooAK/v8r+AOv7/ACgD+AOv7/KK
+        KACiv4A6/v8AKAP4A6K/v8r+AOgAooooAKK/v8ooAK/gDor+/wAoAKK/gDr+/wAoA/gDr+/yv4A6/v8A
+        KAP4A6KK/v8AKACv4A6/v8r+AOgAr+/yv4A6KACiiv7/ACgAr+AOv7/K/gDoA/v8ooooAKKK/gDoAKKK
+        KAP7/K/gDor+/wAoAKKK/gDoAKK/v8r+AOgAooooA/v8r+AOv7/KKACv4A6/v8r+AOgAr+/yiv4A6ACi
+        v7/K/gDoAKK/v8ooAKKKKACiv4A6KAP7/KKKKACv4A6/v8r+AOgD+/yv4A6/v8r+AOgAr+/yiigD+AOv
+        7/K/gDr+/wAoAKKKKACiiigAr+AOv7/KKAP4A6KKKACv7/KK/gDoAK/v8r+AOigAr+/yiigAor+AOigD
+        +/yv4A6K/v8AKACv4A6/v8r+AOgD+/yiiigD+AOv7/KKKACv4A6K/v8AKACiiv4A6ACiiv7/ACgAor+A
+        OigAr+/yv4A6/v8AKACv4A6KKACv7/K/gDooAKK/v8ooAKK/gDr+/wAoAKKKKACiiigD+AOiv7/KKACv
+        4A6K/v8AKAP4A6/v8or+AOgAr+/yv4A6/v8AKAP4A6KKKACv7/KK/gDoAK/v8or+AOgD+/yv4A6K/v8A
+        KAP4A6/v8r+AOv7/ACgD+AOiiigD+/yiiv4A6ACiv7/KKACiv4A6KACiv7/K/gDoA/v8r+AOv7/KKAP4
+        A6/v8or+AOgAr+/yv4A6/v8AKACiv4A6KAP7/KKKKACiiv4A6ACiiv7/ACgAor+AOigD+/yiiv4A6AP7
+        /KKKKAP4A6/v8oooA/gDr+/yiigD+AOv7/KK/gDoAKKK/v8AKAP4A6/v8or+AOgD+/yv4A6/v8ooAKK/
+        gDr+/wAoA/gDoor+/wAoAKKKKACiiv4A6AP7/K/gDor+/wAoAKKKKACiiigAr+AOv7/K/gDoA/v8oooo
+        AKKK/gDoA/v8r+AOiigAooooAK/v8or+AOgD+/yv4A6K/v8AKAP4A6/v8r+AOv7/ACgD+AOv7/KKKAP4
+        A6/v8r+AOv7/ACgAr+AOv7/K/gDoAKK/v8r+AOgAoor+/wAoAKKKKACiiv4A6AP7/K/gDr+/yigD+AOi
+        iigD+/yv4A6KKAP7/KK/gDooA/v8or+AOigAor+/yigAooooAKKK/gDoA/v8or+AOigD+/yiv4A6KAP7
+        /KK/gDooA/v8r+AOv7/KKAP4A6/v8r+AOv7/ACgD+AOiv7/K/gDoA/v8r+AOv7/K/gDoAK/v8oooA/gD
+        r+/yiv4A6AP7/K/gDr+/yv4A6ACv7/KKKAP4A6/v8r+AOv7/ACgD+AOiiv7/ACgAr+AOv7/K/gDoA/v8
+        oor+AOgD+/yv4A6/v8r+AOgAr+/yv4A6KAP7/K/gDr+/yv4A6AP7/KKKKACv4A6/v8r+AOgD+/yiiv4A
+        6AP7/KK/gDooA/v8r+AOv7/K/gDoA/v8ooooAKK/gDooAK/v8or+AOgD+/yiiigD+AOiv7/KKACiiigA
+        r+AOv7/KKAP4A6/v8r+AOv7/ACgD+AOiiigD+/yv4A6/v8ooA/gDooooA/v8or+AOigD+/yv4A6KKACv
+        7/KKKAP4A6/v8or+AOgD+/yiiigAr+AOv7/K/gDoA/v8r+AOv7/K/gDoAKKKKAP7/K/gDr+/yv4A6AP7
+        /KKK/gDoAK/v8r+AOigD+/yv4A6/v8ooA/gDor+/yigAooooA/gDr+/yiv4A6AP7/KK/gDr+/wAoAKKK
+        /gDoA/v8r+AOv7/K/gDoAKKKKACv7/K/gDooA/v8or+AOv7/ACgAr+AOv7/K/gDoAK/v8or+AOgD+/yv
+        4A6KKAP7/KKKKACv4A6/v8r+AOgD+/yiv4A6KAP7/KK/gDooA/v8r+AOiigD+/yv4A6/v8ooA/gDoooo
+        A/v8r+AOv7/KKACiv4A6KACiv7/K/gDoAK/v8r+AOigD+/yiv4A6KAP7/K/gDor+/wAoA/gDor+/yv4A
+        6AP7/K/gDr+/yv4A6AP7/K/gDr+/yv4A6ACiiv7/ACgAor+AOv7/ACgD+AOv7/K/gDr+/wAoAKKK/gDo
+        A/v8ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+        iigAooooAKKKKACiiigAooooAKKKKACiiigD/9k=
+</value>
+  </data>
 </root>
