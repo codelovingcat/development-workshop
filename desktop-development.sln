@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-sent-mail", "deskto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-google-translate", "desktop-google-translate\desktop-google-translate.csproj", "{8F3E6BFD-35B1-45D9-951E-C92B4899182C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-Database-to-Chart", "desktop-Database-to-Chart\desktop-Database-to-Chart.csproj", "{D1AE5458-29C1-4631-B0BF-C94016A5D7D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{8F3E6BFD-35B1-45D9-951E-C92B4899182C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3E6BFD-35B1-45D9-951E-C92B4899182C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3E6BFD-35B1-45D9-951E-C92B4899182C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AE5458-29C1-4631-B0BF-C94016A5D7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AE5458-29C1-4631-B0BF-C94016A5D7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AE5458-29C1-4631-B0BF-C94016A5D7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AE5458-29C1-4631-B0BF-C94016A5D7D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +127,7 @@ Global
 		{E99C637F-24A0-4D3A-90AE-3AD3A32AE69C} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{D27C515D-B193-4BDF-9F69-E86185F2B7A3} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{8F3E6BFD-35B1-45D9-951E-C92B4899182C} = {666DC695-129A-4B29-A81A-1351EEB7B474}
+		{D1AE5458-29C1-4631-B0BF-C94016A5D7D0} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6BE21AAA-5730-4968-9AA5-F0798970177A}

@@ -1,0 +1,10 @@
+D:\GitHub\workshop-development\desktop-Database-to-Chart\bin\Debug\desktop-Database-to-Chart.exe.config
+D:\GitHub\workshop-development\desktop-Database-to-Chart\bin\Debug\desktop-Database-to-Chart.exe
+D:\GitHub\workshop-development\desktop-Database-to-Chart\bin\Debug\desktop-Database-to-Chart.pdb
+D:\GitHub\workshop-development\desktop-Database-to-Chart\obj\Debug\desktop-Database-to-Chart.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\desktop-Database-to-Chart\obj\Debug\desktop_Database_to_Chart.Chart.resources
+D:\GitHub\workshop-development\desktop-Database-to-Chart\obj\Debug\desktop_Database_to_Chart.Properties.Resources.resources
+D:\GitHub\workshop-development\desktop-Database-to-Chart\obj\Debug\desktop-Database-to-Chart.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\desktop-Database-to-Chart\obj\Debug\desktop-Database-to-Chart.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\desktop-Database-to-Chart\obj\Debug\desktop-Database-to-Chart.exe
+D:\GitHub\workshop-development\desktop-Database-to-Chart\obj\Debug\desktop-Database-to-Chart.pdb
