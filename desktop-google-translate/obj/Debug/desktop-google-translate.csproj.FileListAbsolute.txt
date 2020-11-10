@@ -1,0 +1,10 @@
+D:\GitHub\workshop-development\desktop-google-translate\bin\Debug\desktop-google-translate.exe.config
+D:\GitHub\workshop-development\desktop-google-translate\bin\Debug\desktop-google-translate.exe
+D:\GitHub\workshop-development\desktop-google-translate\bin\Debug\desktop-google-translate.pdb
+D:\GitHub\workshop-development\desktop-google-translate\obj\Debug\desktop-google-translate.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\desktop-google-translate\obj\Debug\desktop_google_translate.GoogleTranslate.resources
+D:\GitHub\workshop-development\desktop-google-translate\obj\Debug\desktop_google_translate.Properties.Resources.resources
+D:\GitHub\workshop-development\desktop-google-translate\obj\Debug\desktop-google-translate.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\desktop-google-translate\obj\Debug\desktop-google-translate.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\desktop-google-translate\obj\Debug\desktop-google-translate.exe
+D:\GitHub\workshop-development\desktop-google-translate\obj\Debug\desktop-google-translate.pdb

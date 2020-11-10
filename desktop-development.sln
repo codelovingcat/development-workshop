@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-html-agility-pack",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-sent-mail", "desktop-sent-mail\desktop-sent-mail.csproj", "{D27C515D-B193-4BDF-9F69-E86185F2B7A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desktop-google-translate", "desktop-google-translate\desktop-google-translate.csproj", "{8F3E6BFD-35B1-45D9-951E-C92B4899182C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{D27C515D-B193-4BDF-9F69-E86185F2B7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D27C515D-B193-4BDF-9F69-E86185F2B7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D27C515D-B193-4BDF-9F69-E86185F2B7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3E6BFD-35B1-45D9-951E-C92B4899182C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3E6BFD-35B1-45D9-951E-C92B4899182C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3E6BFD-35B1-45D9-951E-C92B4899182C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3E6BFD-35B1-45D9-951E-C92B4899182C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,6 +120,7 @@ Global
 		{F8871B47-E4F2-4648-AD26-6CFC2105B1E9} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{E99C637F-24A0-4D3A-90AE-3AD3A32AE69C} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{D27C515D-B193-4BDF-9F69-E86185F2B7A3} = {666DC695-129A-4B29-A81A-1351EEB7B474}
+		{8F3E6BFD-35B1-45D9-951E-C92B4899182C} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6BE21AAA-5730-4968-9AA5-F0798970177A}
