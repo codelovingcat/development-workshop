@@ -1,0 +1,13 @@
+D:\GitHub\workshop-development\qr-code-barcode\bin\Debug\qr-code-barcode.exe.config
+D:\GitHub\workshop-development\qr-code-barcode\bin\Debug\qr-code-barcode.exe
+D:\GitHub\workshop-development\qr-code-barcode\bin\Debug\qr-code-barcode.pdb
+D:\GitHub\workshop-development\qr-code-barcode\bin\Debug\MessagingToolkit.QRCode.dll
+D:\GitHub\workshop-development\qr-code-barcode\obj\Debug\qr-code-barcode.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\qr-code-barcode\obj\Debug\qr_code_barcode.QRBarcode.resources
+D:\GitHub\workshop-development\qr-code-barcode\obj\Debug\qr_code_barcode.Properties.Resources.resources
+D:\GitHub\workshop-development\qr-code-barcode\obj\Debug\qr-code-barcode.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\qr-code-barcode\obj\Debug\qr-code-barcode.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\qr-code-barcode\obj\Debug\qr-code-barcode.csproj.CopyComplete
+D:\GitHub\workshop-development\qr-code-barcode\obj\Debug\qr-code-barcode.exe
+D:\GitHub\workshop-development\qr-code-barcode\obj\Debug\qr-code-barcode.pdb
+D:\GitHub\workshop-development\qr-code-barcode\bin\Debug\Zen.Barcode.Core.dll
