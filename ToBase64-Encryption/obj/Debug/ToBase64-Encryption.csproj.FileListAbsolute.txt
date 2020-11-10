@@ -1,0 +1,10 @@
+D:\GitHub\workshop-development\ToBase64-Encryption\bin\Debug\ToBase64-Encryption.exe.config
+D:\GitHub\workshop-development\ToBase64-Encryption\bin\Debug\ToBase64-Encryption.exe
+D:\GitHub\workshop-development\ToBase64-Encryption\bin\Debug\ToBase64-Encryption.pdb
+D:\GitHub\workshop-development\ToBase64-Encryption\obj\Debug\ToBase64-Encryption.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\ToBase64-Encryption\obj\Debug\ToBase64_Encryption.Encryption.resources
+D:\GitHub\workshop-development\ToBase64-Encryption\obj\Debug\ToBase64_Encryption.Properties.Resources.resources
+D:\GitHub\workshop-development\ToBase64-Encryption\obj\Debug\ToBase64-Encryption.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\ToBase64-Encryption\obj\Debug\ToBase64-Encryption.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\ToBase64-Encryption\obj\Debug\ToBase64-Encryption.exe
+D:\GitHub\workshop-development\ToBase64-Encryption\obj\Debug\ToBase64-Encryption.pdb
