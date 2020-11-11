@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "datagridview-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qr-code-barcode", "qr-code-barcode\qr-code-barcode.csproj", "{1744C99F-428C-4578-ABEB-7C5BA98A2CE0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "qr-barcode-development", "qr-barcode-development", "{15C2D60E-36D8-4615-9BF8-B78DF2423E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dessktop-datagridview-conditional-coloring", "dessktop-datagridview-conditional-coloring\dessktop-datagridview-conditional-coloring.csproj", "{BB29F86C-2F85-4A2A-A7C3-8C69877DF5B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +131,10 @@ Global
 		{1744C99F-428C-4578-ABEB-7C5BA98A2CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1744C99F-428C-4578-ABEB-7C5BA98A2CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1744C99F-428C-4578-ABEB-7C5BA98A2CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB29F86C-2F85-4A2A-A7C3-8C69877DF5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB29F86C-2F85-4A2A-A7C3-8C69877DF5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB29F86C-2F85-4A2A-A7C3-8C69877DF5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB29F86C-2F85-4A2A-A7C3-8C69877DF5B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,7 +158,8 @@ Global
 		{D1AE5458-29C1-4631-B0BF-C94016A5D7D0} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 		{E91472CA-E14A-404A-B37E-D8251613EB1C} = {9D6F9F93-5240-428F-B9B5-0703B98CCC2D}
 		{5BC7145E-310A-4E40-B4DB-DA52B462E82C} = {9D6F9F93-5240-428F-B9B5-0703B98CCC2D}
-		{1744C99F-428C-4578-ABEB-7C5BA98A2CE0} = {666DC695-129A-4B29-A81A-1351EEB7B474}
+		{1744C99F-428C-4578-ABEB-7C5BA98A2CE0} = {15C2D60E-36D8-4615-9BF8-B78DF2423E42}
+		{BB29F86C-2F85-4A2A-A7C3-8C69877DF5B9} = {666DC695-129A-4B29-A81A-1351EEB7B474}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6BE21AAA-5730-4968-9AA5-F0798970177A}

@@ -1,0 +1,10 @@
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\bin\Debug\dessktop-datagridview-conditional-coloring.exe.config
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\bin\Debug\dessktop-datagridview-conditional-coloring.exe
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\bin\Debug\dessktop-datagridview-conditional-coloring.pdb
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\obj\Debug\dessktop-datagridview-conditional-coloring.csprojAssemblyReference.cache
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\obj\Debug\dessktop_datagridview_conditional_coloring.Form1.resources
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\obj\Debug\dessktop_datagridview_conditional_coloring.Properties.Resources.resources
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\obj\Debug\dessktop-datagridview-conditional-coloring.csproj.GenerateResource.cache
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\obj\Debug\dessktop-datagridview-conditional-coloring.csproj.CoreCompileInputs.cache
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\obj\Debug\dessktop-datagridview-conditional-coloring.exe
+D:\GitHub\workshop-development\dessktop-datagridview-conditional-coloring\obj\Debug\dessktop-datagridview-conditional-coloring.pdb
